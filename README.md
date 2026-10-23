@@ -274,10 +274,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="786" height="587" alt="image" src="https://github.com/user-attachments/assets/aea02034-2ef9-4e16-a4b3-d0433e0d2069" />
  
  
- ## Circuit board :
- # Without interrupt:
+## Circuit board :
+### Without interrupt:
 <img width="692" height="927" alt="image" src="https://github.com/user-attachments/assets/affea584-cf5c-4ad8-be94-770d9b05b15d" />
- # With interrupt:
+
+### With interrupt:
  <img width="692" height="927" alt="image" src="https://github.com/user-attachments/assets/a8542bd9-375d-4fd5-9aff-de1021527d9e" />
 
  
